@@ -855,10 +855,10 @@ $ npm run dev
 ![Settings](appindex.jpg)
 
 
-![NMP RUN](1.JPG)
+![NMP RUN](1.jpg)
 
 
-![NM22](2.JPG)
+![NM22](2.jpg)
 
 
 ![MPRUN3](3.jpg)
