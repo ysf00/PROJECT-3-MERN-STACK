@@ -33,7 +33,7 @@
 ## How does the MERN stack work?
 The MERN architecture allows us to easily construct a 3-tier architecture (frontend, backend, database) entirely using JavaScript and JSON.
 
-![MERN STRUCTURE](MERNSTACK.JPG)
+![MERN STRUCTURE](struct.jpg)
 
 ### In this project, we are required to implement a web solution based on MERN stack on a Linux server.  We will be deploying an application that is used to create ‘Todo’ lists by implementing the steps below:
 
